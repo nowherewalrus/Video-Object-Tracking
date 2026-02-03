@@ -23,8 +23,8 @@ A real-time object tracking application using OpenCV's legacy tracking algorithm
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/object-tracking.git
-cd object-tracking
+git clone https://github.com/nowherewalrus/Video-Object-Tracking.git
+cd main
 ```
 
 2. Install dependencies:
