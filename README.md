@@ -37,7 +37,7 @@ pip install opencv-python opencv-contrib-python
 1. Place your video file (e.g., `traffic.mp4`) in the project directory
 2. Run the script:
 ```bash
-python object_tracker.py
+python main.py
 ```
 
 3. Controls:
